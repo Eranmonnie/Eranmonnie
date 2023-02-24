@@ -20,12 +20,6 @@
   
 </div>
 
-<div id="views">
-
-<img src="https://komarev.com/ghpvc/?username=Eranmonnie&style=flat-square&color=blue" alt=""/>
-
-</div>
-
 </div>
 
 <h1>
