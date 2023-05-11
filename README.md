@@ -56,8 +56,8 @@ I am a Full Stack Developer from Nigeria.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Expressjs" alt="Expressjs" width="40" height="40"/>&nbsp;
-  
-                                                      
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+                                                     
 </div>
 
 ---
