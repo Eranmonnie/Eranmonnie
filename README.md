@@ -1,26 +1,3 @@
-<div id="profile" align="center">
-<div class="header">
-
-<img src="https://media.giphy.com/media/HLB0nLA36GCCo6JuB5/giphy.gif" Width="200"/>
-
-</div>
-
-
-<div id="badges">
-
-  <a href="https://www.linkedin.com/in/ajalaoluwaferanmi/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.sololearn.com/Profile/23417648/?ref=app">
-    <img src="https://img.shields.io/badge/SoloLearn-red?style=for-the-badge&logo=Sololarn&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/Ajala97212459?t=_ImM6KQ8C-PNeHt3WtqttQ&s=09">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  
-</div>
-
-</div>
 
 <h1>
   hey there
@@ -36,7 +13,9 @@ I am a Full Stack Developer from Nigeria.
 - 🔭 I’m currently working  at <a href="https://ouredenlife.com/">Edenlife</a>
 - 🌱 I’m currently learning Vue and Larvel
 - 📫 How to reach me: ajalaferanmi123@gmail.com
-
+- Lets connect on : 
+<a href="https://www.linkedin.com/in/ajalaoluwaferanmi/" > Linkedin. </a><a href="https://twitter.com/Ajala97212459?t=_ImM6KQ8C-PNeHt3WtqttQ&s=09">Sololearn. </a><a href="https://twitter.com/Ajala97212459?t=_ImM6KQ8C-PNeHt3WtqttQ&s=09">Twitter. </a>
+  
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -60,12 +39,6 @@ I am a Full Stack Developer from Nigeria.
                                                      
 </div>
 
----
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eranmonnie&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eranmonnie&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
