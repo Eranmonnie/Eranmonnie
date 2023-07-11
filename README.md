@@ -1,22 +1,5 @@
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
-
-### :man_technologist: About Me :
-My name is Ajala Feranmi
-
-I am a Full Stack Developer from Nigeria.
-
-- 🔭 I’m currently working  at <a href="https://ouredenlife.com/">Edenlife</a>
-- 🌱 I’m currently learning Vue and Larvel
-- 📫 How to reach me: ajalaferanmi123@gmail.com
-- Lets connect on : 
-<a href="https://www.linkedin.com/in/ajalaoluwaferanmi/" > Linkedin. </a><a href="https://twitter.com/Ajala97212459?t=_ImM6KQ8C-PNeHt3WtqttQ&s=09">Sololearn. </a><a href="https://twitter.com/Ajala97212459?t=_ImM6KQ8C-PNeHt3WtqttQ&s=09">Twitter. </a>
-  
----
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 
