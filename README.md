@@ -2,5 +2,5 @@ I'm a full-stack developer with expertise in crafting seamless user experiences 
 
 Feel free to reach out for collaborations, discussions, or just to say hello! I'm open to connecting with fellow developers, tech enthusiasts, and anyone interested in the art and science of software development.
 
-- 🐦 **Twitter:** [[GitHub](https://github.com/Eranmonnie)]
-- 🔗 **LinkedIn:** [[Linkedin](https://www.linkedin.com/in/ajala-oluwaferanmi-a32b79204)]
+- 🐦 **Twitter:** [GitHub](https://github.com/Eranmonnie)
+- 🔗 **LinkedIn:** [Linkedin](https://www.linkedin.com/in/ajala-oluwaferanmi-a32b79204)
